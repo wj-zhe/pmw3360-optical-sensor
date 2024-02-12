@@ -1,0 +1,548 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ANGBASE
+  50
+0.0
+  9
+$ANGDIR
+  70
+1
+  9
+$MEASUREMENT
+  70
+1
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+LTYPE
+  70
+4
+  0
+LTYPE
+  5
+40F
+  2
+CONTINUOUS
+  70
+0
+  3
+Solid line
+  72
+65
+  73
+0
+  40
+0.0
+  0
+LTYPE
+  5
+410
+  2
+DASHDOT
+ 70
+0
+  3
+Dash Dot ____ _ ____ _
+ 72
+65
+ 73
+4
+ 40
+2.0
+ 49
+1.25
+ 49
+-0.25
+ 49
+0.25
+ 49
+-0.25
+  0
+LTYPE
+  5
+411
+  2
+DASHED
+ 70
+0
+  3
+Dashed __ __ __ __ __
+ 72
+65
+ 73
+2
+ 40
+0.75
+ 49
+0.5
+ 49
+-0.25
+  0
+LTYPE
+  5
+43B
+  2
+DOTTED
+ 70
+0
+  3
+Dotted .  .  .  .
+ 72
+65
+ 73
+2
+ 40
+0.2
+ 49
+0.0
+ 49
+-0.2
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  70
+4
+  0
+STYLE
+  2
+KICAD
+  70
+0
+  40
+0
+  41
+1
+  42
+1
+  50
+0
+  71
+0
+  3
+isocp.shx
+  0
+STYLE
+  2
+KICADB
+  70
+0
+  40
+0
+  41
+1
+  42
+1
+  50
+0
+  71
+0
+  3
+isocp.shx
+  0
+STYLE
+  2
+KICADI
+  70
+0
+  40
+0
+  41
+1
+  42
+1
+  50
+15
+  71
+0
+  3
+isocp.shx
+  0
+STYLE
+  2
+KICADBI
+  70
+0
+  40
+0
+  41
+1
+  42
+1
+  50
+15
+  71
+0
+  3
+isocp.shx
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  70
+1
+  0
+LAYER
+  2
+BLACK
+  70
+0
+  62
+7
+  6
+CONTINUOUS
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+0
+LINE
+8
+BLACK
+6
+CONTINUOUS
+10
+-16.15
+20
+5.075
+11
+-9.75
+21
+5.075
+0
+LINE
+8
+BLACK
+6
+CONTINUOUS
+10
+-9.75
+20
+5.075
+11
+-9.75
+21
+-5.075
+0
+LINE
+8
+BLACK
+6
+CONTINUOUS
+10
+-9.75
+20
+-5.075
+11
+-16.15
+21
+-5.075
+0
+LINE
+8
+BLACK
+6
+CONTINUOUS
+10
+-16.15
+20
+-5.075
+11
+-16.15
+21
+5.075
+0
+LINE
+8
+BLACK
+6
+CONTINUOUS
+10
+-16.1284
+20
+-19
+11
+-16.1284
+21
+21
+0
+LINE
+8
+BLACK
+6
+CONTINUOUS
+10
+15.6216
+20
+-19
+11
+15.6216
+21
+21
+0
+ARC
+8
+BLACK
+10
+0
+20
+-27.978
+40
+14.478
+50
+-0
+51
+180
+0
+ARC
+8
+BLACK
+10
+0
+20
+27.978
+40
+14.478
+50
+-180
+51
+-0
+0
+CIRCLE
+8
+BLACK
+10
+0
+20
+0
+40
+12.5
+0
+CIRCLE
+8
+BLACK
+10
+0
+20
+0
+40
+13.5
+0
+CIRCLE
+8
+BLACK
+10
+0
+20
+0
+40
+21
+0
+CIRCLE
+8
+BLACK
+10
+0
+20
+-17.5
+40
+2.85
+0
+CIRCLE
+8
+BLACK
+10
+0
+20
+17.5
+40
+2.85
+0
+LINE
+8
+BLACK
+6
+CONTINUOUS
+10
+-9.5
+20
+3.33
+11
+-9.5
+21
+-3.92
+0
+LINE
+8
+BLACK
+6
+CONTINUOUS
+10
+-1.5
+20
+10.63
+11
+-1.5
+21
+10.38
+0
+LINE
+8
+BLACK
+6
+CONTINUOUS
+10
+-1.5
+20
+10.38
+11
+-2.45
+21
+10.38
+0
+LINE
+8
+BLACK
+6
+CONTINUOUS
+10
+1.5
+20
+10.63
+11
+-1.5
+21
+10.63
+0
+LINE
+8
+BLACK
+6
+CONTINUOUS
+10
+1.5
+20
+10.63
+11
+1.5
+21
+10.38
+0
+LINE
+8
+BLACK
+6
+CONTINUOUS
+10
+2.45
+20
+10.38
+11
+1.5
+21
+10.38
+0
+LINE
+8
+BLACK
+6
+CONTINUOUS
+10
+2.45
+20
+-10.97
+11
+-2.45
+21
+-10.97
+0
+LINE
+8
+BLACK
+6
+CONTINUOUS
+10
+9.5
+20
+3.33
+11
+9.5
+21
+-3.92
+0
+ARC
+8
+BLACK
+10
+-2.45
+20
+3.33
+40
+7.05
+50
+-270
+51
+-180
+0
+ARC
+8
+BLACK
+10
+-2.45
+20
+-3.92
+40
+7.05
+50
+-180
+51
+-90
+0
+ARC
+8
+BLACK
+10
+2.45
+20
+3.33
+40
+7.05
+50
+-0
+51
+90
+0
+ARC
+8
+BLACK
+10
+2.44999
+20
+-3.91999
+40
+7.05001
+50
+-89.9999
+51
+-8.12705e-05
+  0
+ENDSEC
+  0
+EOF
